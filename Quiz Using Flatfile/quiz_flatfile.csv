@@ -1,0 +1,12 @@
+ID;Question;ID_yes;ID_no;ID_idk
+1;"Does Tox suck?";4;2;2
+2;"Are you sure about that?";3;4;4
+3;"I think you are wrong, let's return to question 1.";1;1;1
+4;"Exactly, now do you want to start the real quiz?";5;-1;5
+5;"We're gonna start anyways. Do you like quizzes?";7;6;8
+6;"I can understand that, but do you like this quiz?";7;7;8
+7;"That's what I thought, I bet you can't answer no on this question!";9;9;11
+8;"How hard is it to decide if you this quiz or not? Final question: give this quiz a rating.";-1;-1;-1
+9;"Are you getting confused?";10;10;10
+10;"Final question: give this quiz a rating.";-1;-1;-1
+11;"I am playing mindgames now, what has this quiz become? Final question: give this quiz a rating.";-1;-1;-1

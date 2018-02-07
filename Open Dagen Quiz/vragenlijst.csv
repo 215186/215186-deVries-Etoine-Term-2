@@ -1,0 +1,30 @@
+ID;Question;A1;A2;A3;V1;V2;V3
+1;"Game je veel?";"Ja";"Nee";"Normaal";9999;0;0
+2;"Zit je vaak op Deviant Art?";"Ja";"Nee";"Nooit van gehoord";-1;0;1
+3;"Als je netwerk connectie niet werkt, wat check je dan als eerst?";"De kabel";"De netwerkinstellingen";"Kan ik een hulplijn inschakelen?";1;0;-1
+4;"Weet je veel van hardware af?";"Ja";"Nee";"null";1;0;9999
+5;"Vind je het leuk om dingen in elkaar te zetten?";"Ja";"Nee";"null";1;9999;9999
+6;"Wat is RJ-45?";"Een programmeertaal";"Een kabel";"Geen idee";0;1;-1
+7;"Hou je van nieuwe dingen leren?";"Ja";"Nee";"Neutraal";0;9999;9999
+8;"Wat is iOS?";"Een operating system";"Een open sharing protocol";"International Offshore Service";1;0;-1
+9;"Vind je netwerken leuk?";"Ja";"Beetje";"Helemaal niet";1;0;-1
+10;"Waar staat VGA voor?";"Vector Graphics Array";"Video Graphics Array";"Vector Graphics Application";0;1;-1
+11;"Heb je veel orde nodig in wat je doet?";"Ja";"Nee";"null";1;0;9999
+12;"Wie was Picasso?";"Een programmeur";"Een kunstenaar";"Een beheerder";0;-1;1
+13;"Hoeveel volt heeft een pc nodig?";"Huh?";"230V";"120V";-1;1;0
+14;"Wat doet/is de CPU?";"Het verwerkt code";"Central Processing Unit";"Geen idee";0;1;-1
+15;"Wat heb je liever?";"Het installeren en instellen van een Operating System";"Programmeren en onderhouden van een website";"Het design voor een website maken.";1;0;-1
+17;"Een RAM kaart heeft een label met daarop '1G x16', hoeveel RAM zit er op deze kaart?";"1 GB";"16 GB";"161 GB";1;0;-1
+17;"Gebruik je wel eens photo-editors (zoals Paint, Photoshop, Premiere GIMP)";"Ja";"Nee";"Niet vaak";-1;1;0
+18;"Welk van deze services zou je houden, als de andere 2 weg zouden gaan?";"Google";"Photoshop";"StackOverflow";1;-1;0
+19;"Zit je vaak op Codecademy?";"Ja";"Nee";"Nooit van gehoord";0;1;-1
+20;"Hou je van tekenen?";"Ja";"Nee";"Neutraal";-1;0;0
+21;"Denk je veel logisch na?";"Ja";"Nee";"null";0;-1;9999
+22;"Vind je het interessant om uit te vinden hoe een programma werkt?";"Ja";"Nee";"null";0;-1;9999
+23;"Zit je vaak op StackOverflow?";"Ja";"Nee";"Nooit van gehoord";0;-1;1
+24;"Wie richtte Microsoft op?";"Steve Jobs";"Bill Gates";"Piet Mondriaan";0;0;-1
+25;"Zou je het gaaf vinden om in Silicon Valley te werken?";"Zeker/Awesome";"Nee";"Waar/wat is dat?";0;1;-1
+26;"Zou je jezelf bij een helpdesk zien werken?";"Ja";"Nee";"null";1;0;9999
+27;"Als meerdere toetsen op je toetsenbord ingedrukt blijven, wat doe je dan?";"Koop een nieuw toetsenbord";"De vering checken";"Om hulp vragen";0;1;-1
+28;"Ben je goed in engels?";"Ja";"Nee";"null";0;9999;9999
+29;"Vind je het leuk om met servers te werken?";"Ja";"Nee";"null";1;9999;9999

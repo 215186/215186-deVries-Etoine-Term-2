@@ -1,0 +1,79 @@
+body {
+  background-image: url('http://i.stack.imgur.com/kx8MT.gif');
+  background-size: cover;
+}
+
+#formButton {
+  color: white;
+  background-color: ForestGreen;
+  padding: 10px;
+  width: 30%;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: fixed;
+}
+
+/* LOGIN FORM */
+
+#loginForm {
+  display: none;
+  position: fixed;
+  width: 65%;
+  left: 50%;
+	top: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 2;
+}
+
+#information {
+  text-align: center;
+}
+
+#message {
+  display: none;
+}
+
+#input {
+  padding: 16px;
+}
+
+#loginSubmit {
+  display: block;
+  width: 100%;
+  background-color: ForestGreen;
+  color: white;
+  padding: 10px;
+}
+
+#loginSubmit:hover, #loginSubmit:focus, #formButton:hover, #formButton:focus {
+  background-color: DarkGreen;
+  cursor: pointer;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+.animate {
+  background-color: #fefefe;
+  border: 1px solid #888;
+  border-radius: 20px;
+  -webkit-animation: animatezoom 0.6s;
+  animation: animatezoom 0.6s
+}
+
+@-webkit-keyframes animatezoom {
+  from {-webkit-transform: scale(0)}
+  to {-webkit-transform: scale(1)}
+}
+
+@keyframes animatezoom {
+  from {transform: scale(0)}
+  to {transform: scale(1)}
+}

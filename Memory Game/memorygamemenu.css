@@ -1,0 +1,60 @@
+body {
+  background-image: url(assets/background/field/bg_cardgame.jpg);
+  background-size: 100% auto;
+  color: white;
+}
+
+header {
+  text-align: center;
+}
+
+.preset {
+  margin: 5px;
+  padding: 10px;
+  border-radius: 4px;
+}
+
+#presetform {
+  color: black;
+  z-index: 2;
+  display: none;
+  border-radius: 3px;
+  border: 2px dotted black;
+  background-color: #fff2cc;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: -webkit-center;
+}
+
+#customform {
+  color: black;
+  z-index: 2;
+  display: none;
+  border-radius: 3px;
+  border: 2px dotted black;
+  background-color: #fff2cc;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: -webkit-center;
+  padding: 30px;
+}
+
+#presetbutton {
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: fixed;
+  padding: 10px;
+}
+
+#custombutton {
+  top: 60%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  position: fixed;
+  padding: 10px;
+}
